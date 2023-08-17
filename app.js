@@ -20,6 +20,9 @@ app.use(cors(corsOptions));
 
 app.use("/admin/api", product_route);
 
+console.log("hello world..");
+
+
 const start = async () =>{
    try{
       await connectDB(process.env.MONGODB_APP_URL);
