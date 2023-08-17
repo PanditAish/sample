@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Web Development",
+        "image": "https://www.netsourceinc.com/blog/wp-content/uploads/2017/10/Header-Image-1080x628.jpg",
+        "description": "Web development refers to the creating, building, and maintaining of websites. It includes aspects such as web design."
+    },
+    {
+        "title": "App Development",
+        "image": "https://www.infoverge.co.za/wp-content/uploads/2021/09/digital-1-1.jpg",
+        "description": "application development is defined as the process of building a web or mobile application."
+    },
+    {
+        "title": "Digital Marketing",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7W7NtveCzpekq685Llv9UPPnxcL1797x5qETibF68BoDcfs0hsevzKocvQqDXlQZiaI&usqp=CAU",
+        "description": "The term digital marketing refers to the use of digital channels to market products and services to consumers."
+    },
+    {
+        "title": "Software Development",
+        "image": "https://www.fdmgroup.com/wp-content/uploads/iStock-1255905237.jpg",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing"
+    },
+    {
+        "title": "graphics Designer",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwUU41BH0M5zYsdwbfqF4IknT-fx5m1pkHYg&usqp=CAU",
+        "description": "Graphic design is the creation of visual compositions to solve problems and communicate ideas through typography, imagery, color and form. "
+    },
+    {
+        "title": "React Developer",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwUU41BH0M5zYsdwbfqF4IknT-fx5m1pkHYg&usqp=CAU",
+        "description": "React developer is the creation of visual compositions to solve problems and communicate ideas through typography, imagery, color and form. "
+    }
+]
